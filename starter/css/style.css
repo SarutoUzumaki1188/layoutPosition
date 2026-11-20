@@ -28,6 +28,9 @@ h1, h2, h3 {
 .site-header {
   background-color: #1F3864;
   color: #FFFFFF;
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
 
 .tagline {
